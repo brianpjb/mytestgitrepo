@@ -1,0 +1,4 @@
+mytestgitrepo
+=============
+
+my test git
